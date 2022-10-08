@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<emotionml category-set="http://www.w3.org/TR/emotion-voc/xml#big6" expressed-through="text" xmlns="http://www.w3.org/2009/10/emotionml">
+	<emotion id="0">
+		<category name="happiness" value="3"/>
+		<clause cause="N" id="1" keywords="N">
+			<text>Her love of dirt gave way to an inclination for finery</text>
+		</clause>
+		<clause cause="N" id="2" keywords="N">
+			<text> and she grew clean as she grew smart</text>
+		</clause>
+		<clause cause="Y" id="3" keywords="Y">
+			<text> she had now the pleasure of sometimes hearing her father and mother remark on her personal improvement</text>
+			<cause begin="39" id="1" lenth="64">hearing her father and mother remark on her personal improvement</cause>
+			<keywords keywords-begin="17" keywords-lenth="8">pleasure</keywords>
+		</clause>
+		<clause cause="N" id="4" keywords="N">
+			<text>&quot;Catherine grows quite a good-looking girl -- she is almost pretty today</text>
+		</clause>
+		<clause cause="N" id="5" keywords="N">
+			<text>&quot; were words which caught her ears now and then</text>
+		</clause>
+		<clause cause="N" id="6" keywords="N">
+			<text> and how welcome were the sounds</text>
+		</clause>
+		<clause cause="N" id="7" keywords="N">
+			<text> To look almost pretty is an acquisition of higher delight to a girl who has been looking plain the first fifteen years of her life than a beauty from her cradle can ever receive.</text>
+		</clause>
+	</emotion>
+</emotionml>

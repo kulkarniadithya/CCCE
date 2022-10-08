@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<emotionml category-set="http://www.w3.org/TR/emotion-voc/xml#big6" expressed-through="text" xmlns="http://www.w3.org/2009/10/emotionml">
+	<emotion id="0">
+		<category name="surprise" value="5"/>
+		<clause cause="N" id="1" keywords="N">
+			<text>That day Jobs walked into the lobby of the video game manufacturer Atari and told the personnel director</text>
+		</clause>
+		<clause cause="Y" id="2" keywords="Y">
+			<text> who was startled by his unkempt hair and attire</text>
+			<cause begin="20" id="1" lenth="28"> his unkempt hair and attire</cause>
+			<keywords keywords-begin="5" keywords-lenth="15">was startled by</keywords>
+		</clause>
+		<clause cause="N" id="3" keywords="N">
+			<text> that he wouldn't leave until they gave him a job.</text>
+		</clause>
+	</emotion>
+</emotionml>

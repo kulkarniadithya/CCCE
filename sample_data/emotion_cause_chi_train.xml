@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<emotionml category-set="http://www.w3.org/TR/emotion-voc/xml#big6" expressed-through="text" xmlns="http://www.w3.org/2009/10/emotionml">
+	<emotion id="0">
+		<category name="surprise" value="5"/>
+		<clause cause="N" id="1" keywords="N">
+			<text>重点信息还有：宝宝是男宝</text>
+		</clause>
+		<clause cause="N" id="2" keywords="N">
+			<text>我们结婚了</text>
+		</clause>
+		<clause cause="N" id="3" keywords="N">
+			<text>领证不着急慢慢等</text>
+		</clause>
+		<clause cause="N" id="4" keywords="N">
+			<text>不少网友表示</text>
+		</clause>
+		<clause cause="Y" id="5" keywords="Y">
+			<text>被该宝爸、宝妈早婚早育的“勇气”所“折服”</text>
+			<cause begin="6" id="1" lenth="42">宝爸、宝妈早婚早育的“勇气”</cause>
+			<keywords keywords-begin="54" keywords-lenth="6">折服</keywords>
+		</clause>
+		<clause cause="N" id="6" keywords="N">
+			<text>也有网友认为</text>
+		</clause>
+		<clause cause="N" id="7" keywords="N">
+			<text>虽然二人已年满16周岁</text>
+		</clause>
+		<clause cause="N" id="8" keywords="N">
+			<text>但距离男、女双方均达到法定结婚年龄还有将近5年的时间</text>
+		</clause>
+		<clause cause="N" id="9" keywords="N">
+			<text>在这期间</text>
+		</clause>
+		<clause cause="N" id="10" keywords="N">
+			<text>不知道宝爸、宝妈考虑过诸如：婚姻状态是否受法律保护、自身将如何发展、感情出现状况怎么办、如何抚养孩子等一系列社会和法律问题</text>
+		</clause>
+	</emotion>
+</emotionml>

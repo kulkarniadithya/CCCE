@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<emotionml category-set="http://www.w3.org/TR/emotion-voc/xml#big6" expressed-through="text" xmlns="http://www.w3.org/2009/10/emotionml">
+	<emotion id="0">
+		<category name="happiness" value="3"/>
+		<clause cause="N" id="1" keywords="N">
+			<text>如今</text>
+		</clause>
+		<clause cause="Y" id="2" keywords="N">
+			<text>她有时能听到父母夸她出落得像个人样了</text>
+			<cause begin="0" id="1" lenth="54">她有时能听到父母夸她出落得像个人样了</cause>
+		</clause>
+		<clause cause="Y" id="3" keywords="N">
+			<text>凯瑟琳这丫头越长越好看</text>
+			<cause begin="4" id="2" lenth="33">凯瑟琳这丫头越长越好看</cause>
+		</clause>
+		<clause cause="Y" id="4" keywords="N">
+			<text>今天几乎漂亮起来了</text>
+			<cause begin="0" id="3" lenth="27">今天几乎漂亮起来了</cause>
+		</clause>
+		<clause cause="Y" id="5" keywords="Y">
+			<text>”她耳朵里不时听到这样的赞语心里说不出有多高兴</text>
+			<cause begin="3" id="4" lenth="39">她耳朵里不时听到这样的赞语</cause>
+			<keywords keywords-begin="63" keywords-lenth="6">高兴</keywords>
+		</clause>
+		<clause cause="N" id="6" keywords="N">
+			<text>一个女孩子生平十五年来一向相貌平平</text>
+		</clause>
+		<clause cause="N" id="7" keywords="N">
+			<text>乍一听说自己几乎漂亮起来了</text>
+		</clause>
+		<clause cause="N" id="8" keywords="N">
+			<text>那比一个生来就很美丽的少女听到这话要高兴得多</text>
+		</clause>
+	</emotion>
+</emotionml>

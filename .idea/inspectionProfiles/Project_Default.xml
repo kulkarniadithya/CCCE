@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="Send2Trash-1.8.0" />
+            <item index="1" class="java.lang.String" itemvalue="argon2-cffi-21.3.0" />
+            <item index="2" class="java.lang.String" itemvalue="pp-3.8.1" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
